@@ -1,13 +1,21 @@
-<!-- ⚡ GRADIENT HEADER -->
+<!-- ⚡ SLICE HEADER (PREMIUM) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0026,50:8a2be2,100:ff4ecd&height=230&section=header&text=ADITYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0026,50:8a2be2,100:ff4ecd&height=240&section=header&text=ADITYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <!-- ⚡ TYPING -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=ff4ecd&center=true&vCenter=true&width=750&lines=Frontend+Developer;UI%2FUX+Designer;Web+Platform+Builder;Future+Focused" />
+</p>
+
+---
+
+<!-- ⚡ ANIMATED DIVIDER -->
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%"/>
 </p>
 
 ---
@@ -64,9 +72,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   <br/><br/>
-
+  <img src="https://img.shields.io/badge/Cursor-ff4ecd?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
+---
 
 ## 📁 PROJECTS
 
@@ -108,10 +118,10 @@
 
 ---
 
-## ⚡ FINAL SIGNAL
+<!-- ⚡ ANIMATED DIVIDER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4ecd,100:1a0026&height=120&section=footer"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%"/>
 </p>
 
-> "Hard work matters, but smart execution makes the difference."
+> "Hard work matters, but smart execution makes the real difference."
