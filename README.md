@@ -1,13 +1,13 @@
-<!-- ⚡ GRADIENT HEADER (PURPLE → PINK → DARK) -->
+<!-- ⚡ GRADIENT HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0026,50:8a2be2,100:ff4ecd&height=230&section=header&text=ADITYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- ⚡ TYPING ANIMATION -->
+<!-- ⚡ TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=ff4ecd&center=true&vCenter=true&width=750&lines=Cyberpunk+Developer;Frontend+Builder;UI/UX+Designer;Future+Focused+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=ff4ecd&center=true&vCenter=true&width=750&lines=Frontend+Developer;UI%2FUX+Designer;Web+Platform+Builder;Future+Focused" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 ---
 
-## ⚙️ TECH MATRIX
+## ⚙️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,vscode,figma" />
@@ -59,14 +59,25 @@
 
 ---
 
-## 🔥 PROJECT ZONE
+## 🧰 TOOLS & ENVIRONMENT
 
 <p align="center">
-  Figma Design Projects <br/>
-  Manga Reading & Publishing Website <br/>
-  Manhwa Reading Platform <br/>
-  CoreInventory Management System <br/>
-  Game Development Projects <br/>
+  <img src="https://cdn.simpleicons.org/git" height="40"/>
+  <img src="https://cdn.simpleicons.org/github" height="40"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="40"/>
+  <img src="https://cdn.simpleicons.org/figma" height="40"/>
+</p>
+
+---
+
+## 📁 PROJECTS
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/figma/ff4ecd" height="18"/> Figma Design Projects <br/>
+  <img src="https://cdn.simpleicons.org/html5/8a2be2" height="18"/> Manga Reading & Publishing Website <br/>
+  <img src="https://cdn.simpleicons.org/react/ff4ecd" height="18"/> Manhwa Reading Platform <br/>
+  <img src="https://cdn.simpleicons.org/python/8a2be2" height="18"/> CoreInventory Management System <br/>
+  <img src="https://cdn.simpleicons.org/unity/ffffff" height="18"/> Game Development Projects <br/>
 </p>
 
 ---
