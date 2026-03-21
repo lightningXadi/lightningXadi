@@ -1,7 +1,7 @@
 <!-- ⚡ GRADIENT HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0026,50:8a2be2,100:ff4ecd&height=230&section=header&text=ADITYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0026,50:8a2be2,100:ff4ecd&height=230&section=header&text=X Born&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- ⚡ TYPING -->
