@@ -64,8 +64,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Cursor-ff4ecd?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=react&logoColor=white"/>
+
 </p>
 
 
