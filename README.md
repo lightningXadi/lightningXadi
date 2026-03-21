@@ -22,40 +22,47 @@
 
 ---
 
-## ⚡ CYBER PROFILE PANEL
+## ⚡ PROFILE SYSTEM
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Name-Aditya%20Kumar%20Singh-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Codename-Adi%20Storm%20⚡-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Username-lightningxadi-8A2BE2?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Developer%20|%20Gamer%20|%20Creator-000000?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Initializing+Profile...;Loading+Adi+Storm+Data...;Access+Granted+⚡" />
 </p>
 
 ---
 
-## ⚙️ SKILL STREAM
+```bash
+> user: lightningxadi
+> name: Aditya Kumar Singh
+> codename: Adi Storm ⚡
+
+> role: Developer | Gamer | Creator
+
+> skills:
+   - HTML / CSS / JavaScript
+   - React / Python
+   - UI/UX (Cyberpunk Design)
+
+> tools:
+   - VS Code / GitHub / Figma
+   - Cursor / Antigravity
+
+> current_status:
+   Building futuristic systems ⚡
+```
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-8A2BE2?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POWER-LIGHTNING-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧰 TOOL SYSTEM
+## ⚙️ TECH MATRIX
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-8A2BE2?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,vscode,figma" />
 </p>
 
 ---
