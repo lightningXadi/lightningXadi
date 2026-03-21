@@ -22,34 +22,40 @@
 
 ---
 
-## 🧠 PROFILE.exe [UPGRADED]
+## ⚡ CYBER PROFILE PANEL
 
-```yaml
-┌──────────────────────────────────────────────┐
-│  NAME        : Aditya Kumar Singh            │
-│  CODENAME    : Adi Storm ⚡                  │
-│  USERNAME    : lightningxadi                 │
-│  ROLE        : Developer | Gamer | Creator   │
-├──────────────────────────────────────────────┤
-│  SKILLS      : HTML • CSS • JavaScript       │
-│               React • Python • UI/UX         │
-│  TOOLS       : VS Code • GitHub • Figma      │
-│               Cursor • Antigravity           │
-├──────────────────────────────────────────────┤
-│  PROJECTS    : Manga Publishing Platform     │
-│               Minecraft Modded Gameplay      │
-│               Cyberpunk UI Systems           │
-├──────────────────────────────────────────────┤
-│  STATUS      : ⚡ Building the Future        │
-└──────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Name-Aditya%20Kumar%20Singh-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Codename-Adi%20Storm%20⚡-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Username-lightningxadi-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Developer%20|%20Gamer%20|%20Creator-000000?style=for-the-badge"/>
+</p>
 
 ---
 
-## ⚙️ TECH MATRIX
+## ⚙️ SKILL STREAM
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,vscode,figma" />
+  <img src="https://img.shields.io/badge/HTML-8A2BE2?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python"/>
+</p>
+
+---
+
+## 🧰 TOOL SYSTEM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-8A2BE2?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge"/>
 </p>
 
 ---
@@ -60,7 +66,7 @@
   🌌 Manga Publishing Website <br/>
   ⚔️ Minecraft Modded Survival <br/>
   🎨 Cyberpunk UI / UX Designs <br/>
-  ⚡ Lightning Based Branding Projects <br/>
+  ⚡ Lightning Branding Projects <br/>
 </p>
 
 ---
@@ -81,6 +87,14 @@
   <a href="https://instagram.com/itz_lightning_adi">
     <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## ⚡ LIVE STATUS
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=⚡+Building+Futuristic+Systems;🚀+Designing+Next+Level+UI;🎮+Gaming+with+Power;💻+Coding+with+Lightning" />
 </p>
 
 ---
