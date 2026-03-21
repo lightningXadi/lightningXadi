@@ -28,7 +28,7 @@
 ┌──────────────────────────────────────────────┐
 │  NAME        : Aditya Kumar Singh            │
 │  CODENAME    : Adi Storm ⚡                  │
-│  USERNAME    : lightningxadi                │
+│  USERNAME    : lightningxadi                 │
 │  ROLE        : Developer | Gamer | Creator   │
 ├──────────────────────────────────────────────┤
 │  SKILLS      : HTML • CSS • JavaScript       │
