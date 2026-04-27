@@ -22,6 +22,20 @@
 
 ---
 
+<!-- ⚡ BANNER GIF WITH NAME -->
+
+<p align="center">
+  <img src="github.gif" width="100%" alt="LightningXadi Banner"/>
+</p>
+
+<h1 align="center">⚡ LightningXadi</h1>
+
+<p align="center">
+  <i>Frontend Developer &nbsp;·&nbsp; UI/UX Designer &nbsp;·&nbsp; Web Platform Builder</i>
+</p>
+
+---
+
 ## ⚡ PROFILE SYSTEM
 
 <p align="center">
