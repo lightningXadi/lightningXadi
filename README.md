@@ -1,10 +1,10 @@
-<!-- ⚡ GRADIENT HEADER -->
+<!-- ⚡ BANNER GIF -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0026,50:8a2be2,100:ff4ecd&height=230&section=header&text=LIGHTNING%20X%20ADI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="github.gif" width="100%" alt="LightningXadi Banner"/>
 </p>
 
-<!-- ⚡ TYPING -->
+<h1 align="center">⚡ LightningXadi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=ff4ecd&center=true&vCenter=true&width=750&lines=Frontend+Developer;UI%2FUX+Designer;Web+Platform+Builder;Future+Focused" />
@@ -18,20 +18,6 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-ff4ecd?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MODE-GRADIENT_CORE-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/STYLE-NEON_DARK-1a0026?style=for-the-badge"/>
-</p>
-
----
-
-<!-- ⚡ BANNER GIF WITH NAME -->
-
-<p align="center">
-  <img src="github.gif" width="100%" alt="LightningXadi Banner"/>
-</p>
-
-<h1 align="center">⚡ LightningXadi</h1>
-
-<p align="center">
-  <i>Frontend Developer &nbsp;·&nbsp; UI/UX Designer &nbsp;·&nbsp; Web Platform Builder</i>
 </p>
 
 ---
@@ -78,9 +64,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   <br/><br/>
-
 </p>
 
+---
 
 ## 📁 PROJECTS
 
