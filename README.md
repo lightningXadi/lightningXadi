@@ -1,7 +1,7 @@
 <!-- ⚡ BANNER GIF -->
 
 <p align="center">
-  <img src="github.gif" width="100%" alt="LightningXadi Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0026,50:8a2be2,100:ff4ecd&height=250&section=header&text=LightningXadi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Web%20Builder&descAlignY=62&descSize=16"/>
 </p>
 
 <h1 align="center">⚡ LightningXadi</h1>
