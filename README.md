@@ -1,7 +1,6 @@
-<!-- ⚡ BANNER GIF -->
-
+<!-- ⚡ BANNER GIF - AUTOPLAYS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0026,50:8a2be2,100:ff4ecd&height=250&section=header&text=LightningXadi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Web%20Builder&descAlignY=62&descSize=16"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU4Y2JhdGEyMnVucnh3eDJnNGFmOGVneWVxMG1xd3V3aGF1MTJncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C5EvYiDXTzYrZs9f2B/giphy.gif" width="100%" alt="LightningXadi Banner"/>
 </p>
 
 <h1 align="center">⚡ LightningXadi</h1>
